@@ -1,5 +1,5 @@
-## Hi there 👋
-![Header](./img/github-header-image.png)
+![Header](./img/github-header-image.png) </br>
+![](https://komarev.com/ghpvc/?username=vincentm498&color=green)
 <!--
 **vincentm498/vincentm498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
